@@ -1,1 +1,1 @@
-//empty for now
+//why would I use javascript?
